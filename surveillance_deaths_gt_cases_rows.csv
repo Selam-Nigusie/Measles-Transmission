@@ -1,0 +1,6 @@
+region,zone,woreda,geo_id,year,epi_week,year_week,measles_cases,measles_deaths,flag_deaths_gt_cases
+Amhara,east gojam,aneded,Amhara__east gojam__aneded,2022,37,2022-W37,0,1,TRUE
+Amhara,west gondar,gendawuha town,Amhara__west gondar__gendawuha town,2024,20,2024-W20,0,1,TRUE
+Benishangul Gumz,metekel,pawe,Benishangul Gumz__metekel__pawe,2023,35,2023-W35,0,1,TRUE
+Harari,harari,aboker,Harari__harari__aboker,2023,2,2023-W02,0,1,TRUE
+Oromia,guji,adola,Oromia__guji__adola,2021,16,2021-W16,0,1,TRUE

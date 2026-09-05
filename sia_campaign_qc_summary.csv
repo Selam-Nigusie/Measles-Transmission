@@ -1,0 +1,2 @@
+rows,min_year,max_year,campaigns_in_model_period,coverage_gt_100_rows,missing_coverage_rows,invalid_date_rows
+11,2010,2022,2,3,0,0

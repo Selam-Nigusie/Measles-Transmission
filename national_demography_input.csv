@@ -1,0 +1,6 @@
+year,national_population,births,crude_death_rate,source,notes
+2020,118917671,3960548,0.00629,World Bank WDI SP.DYN.CDRT.IN (approx.),Corrected from 0.3331 (~47x too high; unit was not deaths-per-person-year as required). Population/births retained from prior entry; verify against primary CSA/UN/WB source before final calibration.
+2021,122138588,4015628,0.00664,World Bank WDI SP.DYN.CDRT.IN (approx.),Corrected from 0.32876. Elevated vs neighboring years, consistent with reported excess mortality in 2021; verify against primary source before final calibration.
+2022,125384287,4064582,0.00609,World Bank WDI SP.DYN.CDRT.IN (approx.),Corrected from 0.32413; verify against primary source before final calibration.
+2023,128691692,4105686,0.00596,World Bank WDI SP.DYN.CDRT.IN (approx.),Corrected from 0.31903; verify against primary source before final calibration.
+2024,132059767,4156522,0.00590,World Bank WDI SP.DYN.CDRT.IN (approx.),Corrected from 0.31469; verify against primary source before final calibration.

@@ -1,0 +1,2 @@
+rows,locations,min_year,max_year,mcv1_gt_100_rows,mcv2_gt_100_rows,mcv2_gt_mcv1_rows,missing_or_invalid_denominator_rows
+4580,916,2020,2024,0,84,662,0

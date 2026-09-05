@@ -1,0 +1,2 @@
+rows,locations,min_onset,max_onset,missing_age,missing_onset_date,negative_reporting_delays,deaths,specimen_tested_rows,lab_confirmed_rows,confirmed_lab_or_epi_rows,rows_recoded_from_snnp
+66040,818,2020-01-01,2024-12-30,96,0,15,422,7298,6973,65717,11496

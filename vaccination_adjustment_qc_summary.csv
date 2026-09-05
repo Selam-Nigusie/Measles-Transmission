@@ -1,0 +1,2 @@
+rows,mcv1_gt_100_rows,mcv2_gt_100_rows,mcv2_gt_mcv1_rows,negative_dropout_raw_rows,negative_dropout_model_rows,max_mcv1_raw,max_mcv2_raw,max_mcv1_model,max_mcv2_model
+4580,0,84,662,644,0,1,17.77777778,1,1
